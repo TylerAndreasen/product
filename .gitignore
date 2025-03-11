@@ -78,6 +78,7 @@ fabric.properties
 
 ### Custom
 .idea/
+product.iml
 
 # Used by CanaDev as scratch or other local files
 *.cana
