@@ -1,6 +1,6 @@
 # Untitled Text-Game: TG1
 
-A text-based horror game written in Java.
+A text-based horror game written in Java.<br/>
 Current plans imply that the game will locate the player character in an abandoned house, pursued by an unspecified hostile creature.
 
 ### Install Instructions
@@ -10,11 +10,11 @@ Current plans imply that the game will locate the player character in an abandon
 3. Run the program.
 
 ### Credits
-Created by
-    CanaDev / TylerAndreasen
-    BoKay69 / Zack Ellis
-    Jose01737 / Jose Ocampo
-    CNinteman / Chad Ninteman
-    thisisausername87 / Toren Kochman
+Created by <br/>
+    CanaDev / TylerAndreasen <br/>
+    BoKay69 / Zack Ellis <br/>
+    Jose01737 / Jose Ocampo <br/>
+    CNinteman / Chad Ninteman <br/>
+    thisisausername87 / Toren Kochman <br/>
 
 Overseen By Professor Jody Paul
