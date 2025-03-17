@@ -83,7 +83,7 @@ product.iml
 ### Gradle files to ignore
 ### Reference: https://github.com/github/gitignore/blob/main/Gradle.gitignore
 .gradle
-**/build/
+#**/build/
 !src/**/build/
 
 # Ignore Gradle GUI config
