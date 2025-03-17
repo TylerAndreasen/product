@@ -1,10 +1,12 @@
 package src;
 
+import java.util.Scanner;
+
 /**
  * ExampleRunningClass Class Javadoc
  * @author CanaDev / TylerAndreasen
  */
-public class ExampleRunningClass
+public class ExampleInteract
 {
 	/**
 	 * Main Javadoc
@@ -13,7 +15,11 @@ public class ExampleRunningClass
 	 */
 	public static void main(String[] args)
 	{
+		Scanner userIn = new Scanner(System.in);
 		sopl("Greetings Existence");
+		String ignorable = userIn.nextLine();
+		sopl("Returns: "+ignorable);
+		userIn.close();
 	}
 
 	/**
