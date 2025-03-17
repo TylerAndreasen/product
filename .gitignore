@@ -113,5 +113,8 @@ gradle-app.setting
 # Ignore Gradle project-specific cache directory
 .gradle
 
-# Ignore Gradle build output directory
-build
+# Ignore most of the Gradle build output directory
+build/classes
+build/generated
+build/reports
+build/tmp
