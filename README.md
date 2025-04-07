@@ -9,6 +9,13 @@ Current plans imply that the game will locate the player character in an abandon
 2. Extract and open the files your preferred Java development environment.
 3. Run the program.
 
+### Stakeholders
+- Players (Users) - Those interested in playing the game that is being made.
+- Maintainers/Developers - Those who are making the game. 
+- Vendors - Those representing online market places from which the game could be distributed.
+- Investors - Those who supply funds to support making the game.
+- Professor Paul - Providing guidance on Agile development practices and 
+
 ### Credits
 Created by <br/>
     CanaDev / TylerAndreasen <br/>
