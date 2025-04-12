@@ -14,6 +14,7 @@
  * given a body to compile, but does need to be implemented in all classes
  * the interface is implemented by if it is not supplied a default.
  */
+@Deprecated
 public abstract class Focusable
 {
 

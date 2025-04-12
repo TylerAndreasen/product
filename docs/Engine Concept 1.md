@@ -6,7 +6,7 @@ NOTE: Writing this before writing the code outline means that I ended up using a
 
 NOTE: The classes I wrote for this model compile but are not run by the jar.
 
-I have some ideas about how to design the concepts Toren and I discussed on the 22nd over discord, and wanted to write them down explicitly for you all. Generally this is split into two parts: The Game Loop, and The Game Data. Note: it is tricky to talk about the two pieces separately, so be aware that the sum of the two following parts should be more cohesive, and will be expanded on afterwards.
+I have some ideas about how to design the concepts Toren and I discussed on the March 22nd over discord, and wanted to write them down explicitly for you all. Generally this is split into two parts: The Game Loop, and The Game Data. Note: it is tricky to talk about the two pieces separately, so be aware that the sum of the two following parts should be more cohesive, and will be expanded on afterwards.
 
 ### The Data
 

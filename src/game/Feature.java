@@ -18,6 +18,7 @@
  * make sense to make interactableand as such the story will need to come
  * first. 
  */
+@Deprecated
 public class Feature extends Focusable
 {
     

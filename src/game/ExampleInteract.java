@@ -1,11 +1,10 @@
-package src;
-
 import java.util.Scanner;
 
 /**
  * ExampleRunningClass Class Javadoc
  * @author CanaDev / TylerAndreasen
  */
+@Deprecated
 public class ExampleInteract
 {
 	/**
